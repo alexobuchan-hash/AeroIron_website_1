@@ -165,7 +165,7 @@ export default function App() {
             >
               <span className="uppercase tracking-[0.3em] text-xs mb-4 block">Introducing Aero-Iron™</span>
               <h2 className="text-5xl md:text-7xl font-serif italic mb-8 leading-tight">
-                The Future of <br /> Cast Iron is Here.
+                The Future Dutch <br /> Oven is Here.
               </h2>
               <div className="flex flex-col md:flex-row gap-4 justify-center">
                 <button className="btn-primary bg-white text-brand-charcoal hover:bg-brand-cream">
